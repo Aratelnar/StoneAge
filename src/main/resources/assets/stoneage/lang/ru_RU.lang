@@ -1,0 +1,4 @@
+tile.stone_frame.name=Каменная рамка
+item.stone_core.name=Каменное ядро
+item.black_diamond.name=Черный алмаз
+itemGroup.stoneage=Stone Age
